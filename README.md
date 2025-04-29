@@ -14,9 +14,3 @@ Este projeto serve como estrutura base para automação de testes de aplicaçõe
 
 ---
 
-## 📁 Estrutura de Diretórios
-
-├── README.md ├── pom.xml └── src ├── main │   └── java └── test ├── java │   ├── pages │   │   ├── CommonPage.java │   │   └── PaginaDePesquisa.java │   ├── steps │   │   └── PesquisaSteps.java │   ├── tests │   │   └── RunTest.java │   └── util │   ├── TestRule.java │   └── Utils.java └── resources ├── drivers │   └── (coloque o chromedriver aqui) └── features └── pesquisa.feature
-
-
----
